@@ -10,7 +10,7 @@ print(8/2)
 print(10*10)
 print(10%2)
 
-# Hola, soy un comentario en python :)
+# Hola, soy un comentario a una linea en python :)
 
 """
 Comentarios a varias lineas son posibles con:
