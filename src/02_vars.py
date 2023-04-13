@@ -10,3 +10,7 @@ print(my_age) # 26
 my_name = 'Gizela'
 
 print("Aqui cambia el nombre a", my_name) #Gizela
+
+# Uso de input; input espera un valor desde la terminal
+my_name = input('¿Cuál es tu nombre?')
+print('Aqui se usa el input', my_name)
